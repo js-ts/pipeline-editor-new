@@ -13,8 +13,8 @@ import {
   unsafeWriteFilesToList,
 } from "./componentStore";
 
-const OLD_SITE_ORIGIN = "https://cloud-pipelines.github.io";
-const NEW_SITE_ORIGIN = "https://cloud-pipelines.net";
+const OLD_SITE_ORIGIN = "https://js-ts.github.io/pipeline-editor-new";
+const NEW_SITE_ORIGIN = "https://js-ts.github.io/pipeline-editor-new";
 const NEW_SITE_URL = new URL("pipeline-editor", NEW_SITE_ORIGIN).toString();
 const VALID_MIGRATION_TARGET_ORIGINS = [
   OLD_SITE_ORIGIN,

@@ -11,7 +11,7 @@ Please take a look at the short video demonstrating the visual pipeline editor.
 
 ## Demo
 
-[Demo](https://cloud-pipelines.net/pipeline-editor)
+[Demo](https://js-ts.github.io/pipeline-editor-new)
 
 The early alpha version of the Cloud Pipelines Editor app shown in this video is now available at <https://cloud-pipelines.net/pipeline-editor> . The app is open and standalone. No registration is required.
 

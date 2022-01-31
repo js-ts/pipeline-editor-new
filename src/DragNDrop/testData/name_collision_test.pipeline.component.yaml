@@ -1,7 +1,7 @@
 name: Name collision test pipeline
 metadata:
   annotations:
-    sdk: 'https://cloud-pipelines.github.io/pipeline-editor/'
+    sdk: 'https://js-ts.github.io/pipeline-editor-new/'
 inputs:
   - name: Foo
     annotations:
