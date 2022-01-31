@@ -14,7 +14,7 @@ export const pipelineLibraryUrl =
 
 // TODO: Remove this in favor of taking the first pipeline from the pipeline library
 export const defaultPipelineUrl =
-  "https://raw.githubusercontent.com/Ark-kun/pipelines/2edfd25b5ee3a4aa149c24a225a50041fbd3662d/components/XGBoost/_samples/sample_pipeline.pipeline.component.yaml";
+"https://raw.githubusercontent.com/js-ts/component_check/main/test.pipeline.component.yaml";
 
 export interface ComponentSearchConfig {
   ComponentFeedUrls?: string[];
